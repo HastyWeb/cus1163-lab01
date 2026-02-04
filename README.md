@@ -297,3 +297,5 @@ Exiting program. Goodbye!
    ```
 
 2. Ensure your completed code is committed and includes screenshots of your working program output.
+   <img width="1383" height="762" alt="cus1163-lab01 output" src="https://github.com/user-attachments/assets/3fb30901-15e3-45c3-abab-1c81226eea19" />
+
